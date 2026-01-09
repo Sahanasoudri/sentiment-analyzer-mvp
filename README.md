@@ -44,7 +44,7 @@ Sentiment_Analyzer/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/Sahanasoudri/sentiment-analyzer-mvp.git
 cd Sentiment_Analyzer
 ```
 ### 2️⃣ Create and activate virtual environment
